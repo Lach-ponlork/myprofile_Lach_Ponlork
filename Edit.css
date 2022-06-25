@@ -53,3 +53,19 @@ body{
 .infor-socail .instagram:hover{
     background-color: #e95950;
 }
+#infor{
+    margin-top: 5rem;
+    
+}
+#infor img{
+    border-radius: 50%;
+
+}
+section{
+    margin-bottom: 5rem;
+
+}
+.imagep-edit{
+    width: 10;
+    height: 10;
+}
